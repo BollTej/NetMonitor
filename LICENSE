@@ -20,5 +20,5 @@ setup(
     description='A package for network monitoring and visualization',
     license='MIT',
     keywords='network monitoring visualization',
-    url='http://github.com/yourusername/netmonitor',
+    url='https://github.com/BollTej/NetMonitor',
 )
