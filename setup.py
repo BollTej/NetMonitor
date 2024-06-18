@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='network_performance_analysis',
+    name='NetMonitor',
     version='0.1.0',
     packages=find_packages(),
     install_requires=[
@@ -11,7 +11,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'network_analysis=network_performance_analysis.main:main'
+            'network_analysis=NetMonitor.main:main'
         ]
     },
     author='NetMonitor',
